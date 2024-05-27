@@ -1,6 +1,6 @@
 ## boas vindas ao meu perfil 💙
 
---Meu nome é Giovanna cristina
+--Meu nome é Giovanna Cristina
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
